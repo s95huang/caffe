@@ -25,6 +25,9 @@ math_functions.cu:<br/>
 
 - line 1: replace `<math_functions.h> → <cuda_runtime.h>` <br/>
 
+### Februari 2021 update:
+Makefile.config.JetsonNano adapted for Jetson TX2 (Thanks to [@henudwj](https://github.com/weiliu89/caffe/issues/1025#issuecomment-778660697) )
+
 # SSD: Single Shot MultiBox Detector
 
 [![Build Status](https://travis-ci.org/weiliu89/caffe.svg?branch=ssd)](https://travis-ci.org/weiliu89/caffe)
